@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi! I'm Yale, a full-stack freelance developer 👨‍💻</div>  
+# <div align="center">Hi! I'm Yale, a full-stack developer 👨‍💻</div>  
   
 
 - Pronouns: he/him/his
