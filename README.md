@@ -93,7 +93,12 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me 
+
+### [Portfolio](https://yaleyang5.github.io/)
+
+<br/>  
+
 <div align="center">
 <a href="https://github.com/yaleyang5" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
