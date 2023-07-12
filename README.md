@@ -18,7 +18,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies.  
   
 
-- ⚡ Fun fact: I arrange for a cappella 🎶, can do a backflip 🙃, and play Super Smash Bros. competitively! 🎮
+- ⚡ Fun facts: I arrange for a cappella 🎶, can do a backflip 🙃, and play Super Smash Bros. competitively! 🎮
   
 
 <br/>  
