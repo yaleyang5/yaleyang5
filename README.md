@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Smash Main Selector](https://github.com/yaleyang5/smash-main-selector)!  
   
 
-- 🌱 These days, I’m learning GraphQL, Typescript, and Redis.  
+- 🌱 These days, I’m learning GraphQL, Typescript, and Ruby.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies.  
