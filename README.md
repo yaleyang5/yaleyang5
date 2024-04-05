@@ -9,10 +9,10 @@
 - Pronouns: he/him/his
 
 
-- 🔭 I’m currently working on [Smash Main Selector](https://github.com/yaleyang5/smash-main-selector)!  
+- 🔭 I’m currently working on growing my startup, [Cribit!](https://cribit.xyz/)
   
 
-- 🌱 These days, I’m learning GraphQL, Typescript, and Ruby.  
+- 🌱 These days, I’m learning GraphQL, Tailwind, and Ruby.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies.  
