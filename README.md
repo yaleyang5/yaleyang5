@@ -12,10 +12,10 @@
 - 🔭 I’m currently working on growing my startup, [Cribit!](https://cribit.xyz/)
   
 
-- 🌱 These days, I’m learning GraphQL, Tailwind, and Ruby.  
+- 🌱 These days, I’m growing in Redux, Tailwind, and Firebase.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies.  
+- ❓ Ask me about anything related to the MERN stack (with CRUD) and related technologies.  
   
 
 - ⚡ Fun facts: I arrange for a cappella 🎶, can do a backflip 🙃, and play Super Smash Bros. competitively! 🎮
