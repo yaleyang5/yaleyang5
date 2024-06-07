@@ -4,11 +4,10 @@
   
 
 # <div align="center">Hi! I'm Yale, a full-stack developer 👨‍💻</div>  
-  
 
-- Pronouns: he/him/his
 
-- Learn more about me on my online [portfolio](https://yaleyang.xyz/)!
+
+- Learn more about me in my online [portfolio](https://yaleyang.xyz/)!
 
 - 🔭 I’m currently working on growing my startup, [Cribit](https://cribit.xyz/)!
   
