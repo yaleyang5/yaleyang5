@@ -8,8 +8,9 @@
 
 - Pronouns: he/him/his
 
+- Learn more about me on my online [portfolio](https://yaleyang.xyz/)!
 
-- 🔭 I’m currently working on growing my startup, [Cribit!](https://cribit.xyz/)
+- 🔭 I’m currently working on growing my startup, [Cribit](https://cribit.xyz/)!
   
 
 - 🌱 These days, I’m growing in Redux, Tailwind, and Firebase.
