@@ -6,9 +6,6 @@
 # <div align="center">Hi! I'm Yale, a full-stack developer 👨‍💻</div>  
 
 
-
-- You can learn more about me in my online [portfolio](https://yaleyang.xyz/)!
-
 - 🔭 I’m currently working on growing my startup, [Cribit](https://cribit.xyz/)!
   
 
