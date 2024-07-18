@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on growing my startup, [Cribit](https://cribit.xyz/)!
   
 
-- 🌱 These days, I’m growing in Redux, Tailwind, and Firebase.
+- 🌱 These days, I’m growing in Typescript, Tailwind, and Firebase.
   
 
 - ❓ Ask me about anything related to the MERN stack (with CRUD) and related technologies.  
