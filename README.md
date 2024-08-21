@@ -6,7 +6,7 @@
 # <div align="center">Hi! I'm Yale, a full-stack developer 👨‍💻</div>  
 
 
-- 🔭 I’m currently working on growing my startup, [Cribit](https://cribit.xyz/)!
+- 🔭 I’m currently working as a Frontend Developer at [Joon Health](https://www.joonhealth.co/)!
   
 
 - 🌱 These days, I’m growing in Typescript, Tailwind, and Firebase.
