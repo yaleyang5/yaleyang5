@@ -139,6 +139,6 @@
 <br/>  
 
 <div align="center">
-<img src="https://github.com/users/yaleyang5/contributions" />
+<img src="https://ghchart.rshah.org/yaleyang5" alt="yaleyang5's Github chart" />
 </div>
 <br />
