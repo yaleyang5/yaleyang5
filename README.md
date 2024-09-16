@@ -9,10 +9,10 @@
 - 🔭 I’m currently working as a Frontend Developer at [Joon Health](https://www.joonhealth.co/)!
   
 
-- 🌱 These days, I’m growing in Typescript, Tailwind, and Firebase.
+- 🌱 These days, I’m growing in Typescript, Postgres, and React-Native.
   
 
-- ❓ Ask me about anything related to the MERN stack (with CRUD) and related technologies.  
+- ❓ Ask me about anything related to React and related technologies.  
   
 
 - ⚡ Fun facts: I arrange for a cappella 🎶, can do a backflip 🙃, and play Super Smash Bros. competitively! 🎮
