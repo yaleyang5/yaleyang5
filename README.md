@@ -135,10 +135,4 @@
 <img src="https://komarev.com/ghpvc/?username=yaleyang5&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-<div align="center">
-<img src="https://ghchart.rshah.org/yaleyang5" alt="yaleyang5's Github chart" />
-</div>
 <br />
