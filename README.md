@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Frontend Developer at [Joon Health](https://www.joonhealth.co/)!
   
 
-- 🌱 These days, I’m growing in Typescript, Postgres, and React-Native.
+- 🌱 These days, I’m actively developing an Expo app using Typescript, React-Native, and Tailwind.
   
 
 - ❓ Ask me about anything related to React and related technologies.  
