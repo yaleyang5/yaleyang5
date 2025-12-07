@@ -3,16 +3,16 @@
 </div>  
   
 
-# <div align="center">Hi! I'm Yale, a Frontend Developer 👨‍💻</div>  
+# <div align="center">Hi! I'm Yale, a Software Engineer 👨‍💻</div>  
 
 
-- 🔭 I’m currently working as a Frontend Developer at [Joon Health](https://www.joonhealth.co/)!
+- 🔭 I’m currently working as a Senior Software Engineer at [Heyo](http://heyo.is/)!
   
 
 - 🌱 These days, I’m actively developing an Expo app using Typescript, React-Native, and Tailwind, while also maintaining multiple React/Typescript/Tailwind apps.
   
 
-- ❓ Ask me about anything related to React and related technologies.  
+- ❓ Ask me about anything related to React and related technologies. 
   
 
 - ⚡ Fun facts: I arrange for a cappella 🎶, can do a backflip 🙃, and play Super Smash Bros. competitively! 🎮
